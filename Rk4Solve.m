@@ -55,13 +55,13 @@ hold on;
           
            if j == 1
            
-           scatter(tn,yn(j),'red');
+           scatter(tn,yn(j),'green');
            
            end
            
            if j == 2
                
-               scatter(tn,yn(j),'blue');
+               scatter(tn,yn(j),'green');
            end
        end
             
