@@ -1,4 +1,9 @@
-% PendulumSolver
+%PendulumSolver
+%
+%Brad Yurgens
+%02/06/14
+%Michigan State University
+%
 %
 %Function to solve the non-linear, boundary value problem u''(t) = -sin(u(t))
 %
